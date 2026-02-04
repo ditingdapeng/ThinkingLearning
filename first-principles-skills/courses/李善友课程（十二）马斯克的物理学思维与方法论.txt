@@ -1,0 +1,162 @@
+2024年3月6日 下午 1:06|58分钟 6秒
+
+关键词:
+火箭、物理学、马斯克、方法论、火星、continuous tunneling、汽车、tunnel wall、美元、电池、移民、思维模型、基础技术、技术模型、思维方式、营销成本、tunneling machines、基石模型、tunnel diameter、连续性模型、通用汽车、迁移学习、ta tunnels、tunnel network、first thing、single road lane tunnel、new thing
+
+文字记录:
+我把刚才这两个非常具有对照性的两个案例合在一起给各位来讲，不知道对各位有没有一点点启发或者冲击？接下来我们讲另外一个狂人，你们需要休息吗？我们接着讲可以吗？接着这个狂人你会发现他好像不是从这个星球穿越回来的，是从另外一个星球穿越到本星球的。 Elon Musk，我再解释一下，我讲他们的故事不是为了说让你说他们有多牛，不是让你学习他们的那个具体的那个东西，而是学习它背后的思维模型。我也讲了无数遍了，各位千万记得你跟我学习，知道学习什么东西。如果画出他的圈来，我就觉得就找不出规律了。
+
+最开始创业做zip，把 zip 卖掉之后去做Paypal，后来把 Paypal 卖掉了，去做 space x，后来同时做了。 06 年做 solar CT， 08 年做特斯拉，到今天不过才 7 年几年？ 9 年时间已经把行业改变了。 13 年去做Hyperloop， 15 年做OpenAI，今年推出 BORING 一个隧道交通，它的未来还要做移民火星，非我族类。
+
+如果孙正义在 it 领域跳，你还有迹象可以看这个哥们无迹可循。所以我们看它的模型是什么呢？它的思维模型，我们是否可以学习呢？伊隆马斯克大学本科是物理学和经济学双学士， 95 年考中了斯坦福博士，但第二天就辍学了。不管辍学不辍学，人家至少在斯坦福的这个博士里面呆过哈。
+
+好了，我在斯坦福那个做访问穴的那一年，还看过有一次跟斯坦福大学校长的对话，有一次在态度上演讲，他的主持人问他说，你相信上帝吗？不，我只相信物理学。所以今天下午我讲物理学和生物学，可能大家觉得枯燥，但是你要知道，就是有人因为坚信了物理学采取的所有的一些成就，物理学给他最大的影响是产生了第一性原理的思维模式。第一性原理对于移龙马斯克的第一性原理，指的是物理学里边的第一性原理，尤其是量子力学里面的基性原理，一种从头算的做法，不需要任何经验数据，从几个基本参数来推演出来结果的做法。其实我相信你不知道是什么意思。我有一个学期在斯坦福旁听张守崇的课，我发现的的确确美国大学课堂里边就有人这么讲这个东西。双手同那层课大概十五六个本科生，我们看很多人还辞到乱七八糟的，你这斯坦福真是一个很神奇的地方，一个诺贝尔奖金的获得者或者准获得者给本科生在讲课记，十几个人在讲课，讲的主题就是这个从物理学里的基本参数，什么质量、重量那个东西来推演出大问题，然后最后让学生做一些结论，出推论出来。比如有一个学生的最后的论文是，唉，兄弟，这个挺好啊，这个是宇宙有多少个原子，他在推这个宇宙有多少个原子有另外一个学生在推。
+
+如果温度长一度冰山会怎么样？海平线会怎么样？本科生跨越的曲面巨大，那个思维训练让我听真是amazing。真是难以想象的那个思维。开阔之美，极其开阔之美。后来我在看一龙马斯克的时候，发现就是这个思维，他说物理能帮助你去发现一些新东西，比如量子力学是反直觉的，它一定从头开始，而不是在已有的东西上开始的。我们用第一性原理的思维，而不是用比较思维是非常重要的。生活当中大家倾向于用比较思维，哎，大家都去坐共享单车了，我也去坐共享单车吧。大家都投共享单车了，我也去投共享单车了，别人做了我们也去做，他说一定要用第一性原理思维，他第一性原理思维你是回到本源，看到事物的本质，然后一层一层的往上去走，这是物理学的第一性原理。我们请他本人来讲一下什么叫第一性。
+
+原理。
+
+I think it's also important to reason from first principles rather than by analogy. So the normal way that we conduct our lives is we reason by analogy. It's we're doing this because it's like something else that was done or it's like what other people are doing. Me too. Type ideas. Yeah, slight iteration. Yeah, slight iteration. Yeah, on a theme. And it's kind of mentally easier to reason by analogy rather than from first principles. But my first principles is kind of a physics way of looking at the world. And what that really means is you kind of boil things down to the most fundamental truths and say, okay, what are we sure as true or as sure as possible is true? And then reason up from there. That takes a lot more mental energy. Give me an example of that. Like what's one thing that you've done that on that you feels work for you? Sure. So somebody could say, in fact, people do that battery packs are really expensive and that's just the way they'll always be cuz that's the way they've been in the past. You're like, well, no, that's pretty dumb, you know, because if you apply that reasoning to anything new, that then.
+
+You wouldn't be able to ever get to that new thing, right? So.
+
+You know, it's like you can't say, oh, you know, horses, well, nobody wants a car because horses are great and we're used to them. And they can eat grass. There's lots of grass all over the place. And, you know, there's not like a, there's no gasoline that people can buy. So people are never gonna, never get, never gonna get cars. Right.
+
+The people did say that, you know, and for batteries, they would say, oh, it's gonna cost, you know, the historically it's cost 6 six hundred dollars per se, $600 per kilowatt hour. And so it's not gonna be much better than that in the future. And you say no, okay, what are the batteries made of? So first principles would be say, okay, what are the material constituents of the batteries? What is the spot market value of the material constituents? So you can say, okay, it's got cobalt, nickel, aluminum, carbon and some polymers for separation and steel can. So break that down on a material basis and say, okay, what if we bought that in the London Metal Exchange? What would each of those things cost? Like, oh jeez, it's like $80 per kilowatt hour. So clearly, you just need to think of clever ways to take those materials and combine them into the shape of a battery cell. And you can have batteries that are much cheaper than anyone realizes.
+
+物理学的思维模型是迄今为止最有用的思维模型。当然刚才那句话我估计大家还没完全听得懂，我们接下来举例子分解一下第一些原理，这个词在创意圈流行就是因为 you must。我对第二影响我的人就是张守成，所以我开始下定决心在研究 Elmusk 是这两个人的影响，我们来看它的第一性原理实际上是物理学思维，他物理学思维的两个基石假设，第一，他相信非连续性从来不在原有的东西上来开头。第二，它所采用的手段是技术模型，而它的技术模型其实不是低端颠覆式创新，而是这种突破性技术创新的模型。
+
+好，这个没什么意义，对吧？我给各位总结一下，我尝试给各位总结一下它的方法论，如果不提供方法论给你，还是说，唉，牛逼呀？太牛逼了。然后但是因为就因为他牛逼，我做不出来。接下来我提供的方法论给各位，然后各位看我接下来举他四个例子，在四个例子里面是不是重复这个方法论？如果只有一次不叫方法论，如果每个例子里边都是这样，是方法论了，对吧？第一个令人印象深刻的是第一道大目标把任何一件事情反过来看，从头来看，反过来想大目标。但第二，这个大目标必须有分解，如果你只有一个大目标，追逐目标，你没有动作，分解是一点可能性也没小的，它的动作分解分到基础技术上去，说什么技术影响这个大目标，找到那几个基础的技术，这是第二点。
+
+第三点，在任何一项基础技术里面，他要求说新技术和原有技术的比较要十倍好，不是提高10%，而是十倍好。我把叫做创新制零的一种想法。什么叫创新？智灵？有一次听这个全世界最大的一个技术咨询公司的总裁来研究室来讲课，他就提出想法叫创新，智灵的想法叫灵概念。举个例子，假如我们想这个处理叫做这个汽车这个排放，我们说你要处理这个 PM2.5 要比去年改善 10% 或者改善20%，这是我们常设的目标，对吧？他说一种新的方法不是这个设目标，而是说我要把汽车排放到零。等你到零言外这一逼着你要开一个新的曲线了，如果是改善10%， 20% 就在原有曲线里边改良了，这要创新至零。
+
+同样拥有这个想法的人是 Google x 实验室。 Google x 实验室那个总监讲过一句话，我就讲得非常漂亮，他其实讲方法论了，他说你把一件事情做到 10 倍好，你觉得很难，对吧？但其实事实上比把一件事情改善 10% 可能更容易。这里面是不是有方法论的味道在里边了？不是励志，不是打鸡血，比如马斯克就说重新发明汽车其实并不比改善汽车难很多，我为什么要走原来的路呢？我重新走就好了，我们接下来这个就是这个例子，这哥们是重新做了个汽车，而不是改善原来的汽车，它分解为电池。刚才那个例子，传统的电池每千瓦时 600 美元，那一辆汽车需要 85 千瓦时，那光电池的钱到了5万美金了。各位想看这个汽车价格得多贵？你能卖得去吗？然后这哥们说不对，电池是以从什么组成的？这个东西在于在原材料买多少钱？ 82 美元而已。那我找到基本原材料之后，我不是买现成的那个汽车电池去改，而是我看汽车电池里边是由什么什么组成的，找到那个材料之后，我用一个新的技术重新编排不就完了吗？结果他用了什么技术呢？居然用的是传统的笔记本电脑里边的那个电池的排列技术，重新把这些原材料组装起来，成了今天特斯拉的电池，你看这是不是 10 倍号？而且解决这个十倍好，跟 Google 艾克森总监讲的话，可能比百提高 10% 更容易。
+
+结果特斯拉成了全世界第一辆电动汽车，让营销传统的方式是用 4S 去做渠道，从 4A 去做广告。这哥们说我为什么要去做 4A 广告？我为什么要通过这个 4S 去卖？它是几乎是全美国第一个人通过网络销售，你在我网上直接买，然后你在我自己的店里直销，整个把 4S 店给取消了，他所以很多各州的 4S 店联合起来跟他打官司。到今天为止，特斯拉在某一些州里面还是不能卖的。
+
+那我有一个朋友郑刚来算了一下他的营销成本，每台车的营销成本多少钱呢？一个麦当劳汉堡的钱 6 美元，传统车企的平均营销成本多少钱呢？ 1, 000 美金。各位是不是又看到一个 10 倍好的概念？你有一个大目标，然后分解为几个基础的技术，然后用新的方法把这个技术提高起来，要求每个技术的改善是十倍。好，所以要用新的方法来组装，如果他只是提那个概念，那就是望人，对吧？那就是 PPT 坐车，中国有人用 PPT 坐车呀？特斯拉史上第一个纯网络营销的汽车品牌自动驾驶。我们都不说今年年底它有一个小目标，应该算从洛杉矶到纽约，完全自动驾驶人不碰那个方向盘，今年 11 月或 12 月能实现。所以到 2020 年的时候，自动驾驶全面实现完全。
+
+Actually.
+
+It's got auto pilot. And you put out this video a while back showing what that technology look like or would look like. There's obviously autopilot in Model s right now. What are we seeing here?
+
+So this is using only cameras and GPS. So there's no lidar or radar being used here. This is just using passive optical, which is essentially what a person uses. The whole road system is meant to be navigated with passive optical or cameras. And so once you solve cameras of vision, then autonomy is solved. If you don't solve vision, it's not solved. So that's why our focuses so heavily on having a vision neural net that's very effective for road conditions.
+
+Right? Many other people are going the lidar route. You want cameras plus radar is most of it.
+
+You can absolutely be superhuman with just cameras. Like you could probably do 10 times better than humans would just cameras.
+
+So the new cars being sold right now have 8 cameras in them that. Yeah, that they can't yet do what that showed. When will they be able to?
+
+I think the, we're still on track for being able to go cross country from LA to New York by the end of the year. Fully autonomous.
+
+So a cop by the end of the year, you're saying? Yeah, someone's gonna sit in a Tesla without touching the steering wheel. Tap in New York, off it goes. Yeah, won't have to ever touch the wheel by the end of 2,017.
+
+Yeah, essentially November or December of this year, we should be able to go from, yeah, all the way from a parking lot in California. So parking lot in New York, no controls touched at any point during the entire journey.
+
+new Bia。但它的模型你看，从燃油汽车功能器这个曲线，它的第二条曲线是这样子的，实际上是above，原来这个曲线的换句话说，完全不在那个类型里边，是从头开始的突破性技术创新的一个曲线。电动汽车、智能汽车，他以前在卖电动汽车的时候已经内置软件了，在他把软件自动upload，能够这个自动驾驶之前，他已经收集了很多资料和信息，路况的信息已经收集掉了，居然今年年底他的车已经全面自动驾驶了。如果世界上没有这样的人，我们对世界会变得很boring，对吧？我们再看看这方法论是不是？各位看是不是这样子的大目标，第一台电动车，第一台大规模商业化的自动驾驶全实现了。怎么做的呢？回到基本参数，分解到基本参数，基本技术是什么？然后在每一个基本技术里边，我要求跟以前用新的方式组合，做到十倍好。切切，所谓基本技术不是用特别高深的技术啊。不是的，全都是 basic 的技术。但重新组装，比如说电池，它是重新做了一个电池管理程序出来。你看是不是 10 倍分解电池十倍好营销十倍好，自动驾驶十倍好，合起来就构成了特斯拉。今年5月 1 号，特斯拉市值首次超过通用汽车。特斯拉的市值首次超过通用汽车。去年，通用汽车的年产量 1, 000 万辆，特斯拉只有 10 万辆。去年通用汽车的收入是 1, 664 亿美元，盈利 94 亿美元，而特斯拉却将亏损4亿美元。在这样的情况之下，为什么市场给特斯拉的市值居然高于通用呢？因为人们相信下一条曲线，在下一条曲线电动汽车这个曲线里边，通用月销量 1, 000 辆，而特斯拉 s 订单引到了 37 万辆。各位，这就知道非连续性创新的那个力量，人们相信的是下一个曲线，只有曲线的转折才能带来技术上真正的进步。所以公司一旦遭遇斯数点恢复，增长引擎的可能性小于10%。大概前年一场争议说特斯拉能否超过通用，我们看结果已经基本出来了，特斯拉一定会超过通用的。毫无疑问，前几年我一直跟综艺说综艺你应该做 something big。我说你应该做辆车，结果综艺没去坐车，转头去坐幼儿园了。 something big。再给这个狂人一点掌声，人家真做出来了。如果你只是有大想法，那叫望人，对吧？他真有方法把它做出来。我们接着看他今年的一个想法，这个望人怎么样？一个反思维的一个想法，他生活在洛杉矶，特别堵车，然后这哥们一有一个大目标，反过来想说，车能够在地面上跑，哎，车为什么不能在隧道里跑呢？我相信大家想都没想过这个问题，对吧？我们说，唉，车将来可以飞，然后他说飞感觉不好，我在车下面，他在我脑子上飞，我会很害怕，万一掉下来，他在下面就不扰民了嘛。这个想法你猛然一听是不是旺人啊？旺人对吧？我们看看这个旺人是如何分解这里边的动作，然后在每一个板块如何想到 10 倍。好的，一定要有一个大目标，然后技术分解，重新组装这个技术，每一个板块要求比以前 10 倍。好，这哥们做了个视频出来。我们来看到这个视频吧。过去地铁每英里的成本是 10 亿美元，他要求把挖掘成本降低到 10% 以内。
+
+So in the next half hour or so, we're gonna spend some time exploring your vision for what an exciting future might look like, which I guess may makes the first question a little ironic. Why are you boring?
+
+Ask myself that frequently.
+
+So I mean, right now, I think one of the most soul destroying things is traffic. It affects people in every part of the world. It's, it takes away so much of your life and your, this, this, it's, it's horrible. It's particularly horrible in LA and.
+
+And so I think you've brought with you the first visualization that's been shown to this coming. Yeah, can I show this?
+
+Yeah, absolutely. So this is the first time. Yeah, we just to sort of show what we're talking about. So the the a couple of key things that are important in having a 3D tunnel network. First of all, you have to be able to integrate the entrance and exit of the tunnel seamlessly into the fabric of the city. So by having an elevator, sort of a car skate that's on an elevator, you can integrate the entrance and exits to the tunnel network just by using two parking spaces. And then the car gets on a skate. There's no speed limit here. So we're designing this to be able to operate at 200 kilmies an hour, about 130,200 kilometers an hour or about 130 miles per hour. So you should be able to get from, say, Westwood to Alix in 6 minutes, 5,6 minutes.
+
+So possibly initially done, it's like on a sort of toll road type basis. Yeah, which I guess alleviate some traffic from the surface streets as well.
+
+So I think people notice in the video, but there's no real limit to how many levels of tunnel you can have. So you can go much further deep than you can go up. The deepest minds are much deeper than the tallest buildings are tall. So you can alleviate any arbitrary level of open congestion with the 3D tunnel network. This is a very important point. So a Kira bundle to the ta tunnels is that if you add, it's one layer of tunnels, then that will simply alleviate congestion, will get used up and then you'll be back where you started, back with congestion. But you could go to any arbitrary number of tunnels, any number of levels.
+
+But people seem traditional. It's incredibly expensive to dig and that would block this idea.
+
+Well, they're right to give you an example, the LA subway extension, which is, I think it's a two and a half mile extension that was just completed for $2 billion. So it's roughly $1 billion a mile to do the subway extension in LA and this is not the highest utility subway in the world. So it, it, yeah, it's quite difficult to dig tunnels normally. I think we need to have at least a tenfold improvement in the cost per mile of tunneling.
+
+And how could you achieve that?
+
+I guess, I actually, if you just do two things, you can get to approximately an order of magnitude improvement. And another thing can go beyond that. So the first thing to do is to cut the tunnel diameter by a factor of two or more. So a single road lane tunnel would, according to regulations, has to be 26 feet, maybe 28 feet in diameter to allow for crashes and emergency vehicles and sufficient ventilation for a combustion engine cars. But if you shrink that diameter to what we're attempting, which is a 12 feet, which is plenty to get an electric skate through. You drop the diameter by factor 2 and the cross sectional area by factor 4. So, and the tunneling cost scales with cross sectional area. So that's roughly a half order of magnitude improvement right there. Then tunneling machines currently tunnel for half the time, then they stop and then the rest of the time is putting in reinforcements for the tunnel wall. So if you have, if you sign the machine instead to do continuous tunneling and reinforcing, that will give you a factor of 2 improvement. Combine that and it's a factor of eight. Also, these machines are far from at being at their power or thermal limit. So you can Jack up the power to the machine substantially, I think you can get at least a factor of two, maybe a factor of four or five improvements on that, on top of that. So I think there's a fairly straightforward series of steps to get somewhere in excess and order magnitude improvement in a cost mile, and our target actually is, we've got a pet snail called Gary. This is from Gary the snail from Southpark. I don't mean, sorry, I'm SpongeBob Squarepants. So Gary is capable of, of currently he's capable of going 14 times faster than a tunnel boring machine. Okay.
+
+You want to beat Gary?
+
+We wanna beat Gary. He's not a patient little fellow. And we want the. That will be victory is beating the snail.
+
+现在的地铁挖掘速度比蜗牛慢 14 倍。他希望达到蜗牛的速度就比现在的速度提高 14 倍了。这哥们有个大目标，但重要的是他给出一个从物理学，从基本量给出一个解决方案出来。如果不给解决方案就妄想，对吧？是个妄人，他能给解决方案，而他给解决方案的东西很奇妙，是回到基本参数重新组合，这个东西完全跟你过去的想法不太一样。我发现我周围的人对他这个方法理解最深的人是黄晓杰。
+
+黄晓杰上次在这个杨先生讲课，发现很多人没听懂，很多人留言说，唉，讲的什么呀？乱七八糟的，其实你根本没听懂。黄悦杰讲了一个思维模型，叫找空间的思维模型，跟刚才伊隆马斯讲的是一样的。黄悦杰说，自从去年 10 月份他想明白了找空间这个思维模型之后，他在任何领域里边都发现都有巨大的空间可找他原来是个技术人员，并不懂销售，可是他发现他真的懂之后，就把销售的工作猜吧猜吧猜吧猜，发现有巨大可以改善的空间，他不懂运营，然后把运营的工作来我跟你猜吧猜到底做什么？猜吧猜吧猜吧猜，猜到根发现有巨大的可以改变的空间，跟他的想法是一样的。
+
+我现在看他的东西完全是司机的姿势，我能够这个描述，但是我现在对他还不能有发自内心的像爱因斯坦那样的一个姿势。如果在座各位想做萨姆丁 big 的话，最应该学习的是这个哥们的这种思维， fantastic amazing，完全不可想象的一个东西。但这需要一个硬科学作为基础，你看是不是从头算，把隧道的直径减少一半，你看能改成 4 倍。把那个挖渠道和筑墙同时进行，又能改善两倍，提高机器效率又能改善多少倍？是不是他给出这个解决方案，而且每个解决方案都基础的技术的解决方案并不是一个多么全新的技术？不是的，是思维的改变，比如电池，它不是在原有的电池改变，而是想电池用什么东西组成的，然后重新写了一个新的电池管理程序，其实也不是重新，笔记本儿的电子管理测序就是那样的，他移植过来。
+
+amazing beautiful 简直是 beautiful 的一种思维，难以想象，但是他的方法论似乎一直在重复，对吧？这个方法论似乎又是可以学习的。然后主持问他说，哇，这件事情要占你多少精力呢？这个狂人居然说他只不过占了我 2% 2- 3 的精力而已。
+
+这哥们每天喝 8 罐可乐来提神，同时在坐着十几个公司。 space x 物理学思维，他根本不去研究那萨怎么去做火箭，重新做自己去自学火箭的教材。他把美国最好的研火箭那个学科的大学，所有火箭的教材全部自学完成，自己变成火箭的专家。比如说一个来自拉萨的工程师，他要求他设计一个火箭主体的计算系统，说不要超过1万美元，这在拉萨要花 1, 000 万美元，是不是个十倍？好，从最基础的物理学定义出发，你想明白了把这东西发上去多重多什么？以你仔细一算，一个火箭的原材料就是火箭组成的原材料，占火箭全部的运营费用 0.3% 而已。
+
+0.3 火箭发射最大成本是火箭本身的一次性使用，因为发上去之后就废了，还不是它原材料的成本，要多少人多少的工厂来重新再制造一个火焰出来呀。然后这哥们有一个突然有了一个大目标，从头算。原问题，唉，为什么能不能造一艘可以重复利用的火箭呢？我想这个问题 NASA 从来没想过，我想这个问题中国航空从来没想过，全世界都没有想过。
+
+说火箭发上去就废了，为什么要重复使用呢？这哥们说你每天把车开出去，你会开出来，对吧？你每天坐船出去，船会回来，对吧？那你为什么发射火箭出去之后火箭不回来了呢？我不知道他为什么想这个问题，而它的发射火箭技术也不是说多么高大的技术，是成熟技术的重新的这个转，所以成为全世界第一个可回收的火箭，火箭回来了，如果能够做到可回收这个火箭它的研发费3亿美元，美国纳萨的研发费 35 亿，发射费用 5, 400 万美元，纳萨的火箭发射费用是 4.35 亿美元。又一个十倍好，不是改善10%，是 10 倍好。
+
+So the thing about rockets is that they're all expendable. All rockets of flight today are fully expendable. The space shuttle was an attempt at a reusable rocket, but even the main tank of the space shuttle was thrown away every time. And the parts that were reusable took a 10,000 person group a nine months to refurbish for flight. So the space shuttle ended up costing $1 billion per flight. Obviously, that doesn't work very.
+
+Well for. So what just happened there? We just saw something.
+
+Loud. That's right. So it's important that the rocket stages be able to come back, to be able to return to the launch site and be ready to launch again within a matter of hours.
+
+Yeah, reusable ruffles. Yes.
+
+And so what a lot of people don't realize is the cost of the fuel, of the propellant is very small. It's much like on a jet. So the cost of the propellant is about point three % of the cost of the rocket. So it's possible to achieve, let's say, roughly a hundredfold improvement in the cost of space flights if you can effectively reuse the rocket. That's why it's so important. Every mode of transport that we use, whether it's planes, trains, autobills, bikes, courses, is reusable, but not rockets. So we must solve this problem in order to become a space flank civilization.
+
+You ask me the question earlier of how popular traveling on cruises would be if you had to burn. Some cruisers apparently.
+
+Are highly problematic.
+
+Definitely more expensive. So that, so that's potentially absolutely disruptive technology and, but I guess paves the way for your dream to actually take at some point, to take humanity to Mars at scale.
+
+最近他把回收回来的火箭二次使用了，重复使用了回收回来的二手火箭，然后全世界媒体，哇哇，然后这哥们很屌的在自己 Twitter 说了一句话，其实我们已经很适应这件事情了，算不了什么，嘿嘿。所以世界上有一种谦虚叫做伊隆马斯克式的谦虚，但是他真做出来了，他真的回收回来了，回溯回来之后那个成本就变成传统火箭成本的 1% 了，过去全中国的成本大概是美国成本的 1/ 10，它现在又比中国成本又能便宜 1/ 10。各位不是举国之利，是一个公司之利哦。
+
+各位，自此是伊隆马斯克大概三四个主要的公司之一哟。全部来源于这个脑，这个人脑子里边的第一性原理哦。可飞出火箭，传统火箭你看是不是又是大目标？从头算 10 倍。好，其实跟下一件事情比较起来，所有刚才已经发生的事情都算不了什么了。这哥们接下来活着最大的意义是为了做这件事儿。火星移民他人生最后一个超级大目标，在虎心上退休，在大学学物里，我思考什么最能影响人类的未来？一个是互联网，第二是可持续能源，再一个就是外星移民。就我个人而言，让人类成为跨行星的物种，是我积累财富的唯一目的。除此以外，赚钱对我没有什么太大的意义。
+
+这句话你听起来很吹牛逼，但是他讲的你会觉得很自然，对吧？完全觉得是自然的。这话，这句话刘俊说就牛逼就吹大了，没人信了。一楼马斯一说好像他就是这样子，对吧？就是这样子的。而且他最近做了个发布会，居然给自己火星移民提出时间表，十年之后就是2020、 2030 年之前第一批人类送上火星，在座各位好好保养身体，你有可能上去。
+
+预计 40 年到 100 年以后，送 100 万人到火星就够了，他说我就送 100 万人到火星，成立一个超级的城市就够了。人，你说这不是旺人吗？你说怎么可能，对吧？怎么可能。唉，这哥们居然给出解决方案出来，同样的思路，已经不是十倍好了，5万倍的好。现在你送去一趟火星，花费 100 亿美元，这哥们的目标是，如果你上火星， 20 万美元就够了，单成啊。双层 40 万。从 100 亿美元到 20 万美元，你敢想吗？这不等于到 0 一样嘛，对吧？跟到 0 没区别。然后这哥们居然给出解决方案出来，这才神奇的事情。他说第一火箭可以重复使用 1, 000 次，降低了 10 倍吧。
+
+到时候我可以在太空轨道里面站建那个加油站，你不需要把燃料全带上去，你带到那个太空轨道之后，你继续加油，往上飞 500 倍。他说火星里面可以继续制造燃料，你返航的燃料不用带，可以制造回来。 x 杯我不知道多少杯了，已经使用正确的燃料的原材料甲烷。为什么呢？火星有大量的甲烷， u 乘以 x 倍，最后5万倍就实现了，就是你看有个大目标，对吧？然后分解到基础技术，每个基础技术里边用全新的方案实现 10 倍，好大目标。从头算，识别好一次一次都是这个方法论，他如果只做一次，你觉得是个旺人，他每次都这么想。让每一个宇宙飞船可以带 100- 200 位乘客。圈毛火星，你这都给你算出来，说一开始需要 30 天，最后飞一开始要 80 天，到最后的话 30 天就能到火星了。各位，然后火箭发射上去之后返航回来 20 分钟，火箭可以再次发射，有视频为证。
+
+20 分钟。
+
+如果你对这个世界有什么不满意，我给你两条建议，第一个建议，千万别寻短见。第二个建议，攒 20 万美元跟他去火星吧。我们有时候想马斯克和贾布斯是一样的吗？他做的事情那么跨行业配套。
+
+公司呢。
+
+后来研究，这哥们有一个强烈的叫跨歇科迁移学习的能力，跨歇科学习的能力，这就跟芒格讲的重要学科的重要理论简直惊人的一致。传统观点认为，为了成为顶级人才，我们必须专注在一个领域。而马斯克反其道行之，它的专业领域跨了火箭科学、工程学、物理学、人工智能、太阳动力资源等等，擅长迁移学习，就是把一个领域学到的知识的内容应用到另外一个领域。你在，你看这个学习方法跟我今天教给各种方法一样一样的，你把知识结构为基本原理，听到了没有？把知识结构为基本原理学什么？学？基本原理是不是跟我今天讲的一样的？各位，你们应该给我点掌声吧？你看基本原理，然后把基本原理应用到新的领域里边去，再上悬挂新的细节。
+
+高人在学什么？如果这个点不给你听，可能一生都不知道高人怎么学习的。芒格在这么学习一路，马斯克也在这么学习。有一次清华管院的县院长钱影一跟马斯克对话，钱影一说，你如何通过自学就掌握了顶尖的物理学呢。言外字一千也认为说你学点什么心理学，点社会学、管理，你可以看书看得会，对吧？物理学你怎么看书看得会，然后英龙马斯克一脸茫然，很羞涩。我读书就在那，我读就好了，然后再去看牵引一张那个嘴也不知道怎么问了。
+
+对，一龙马这个决定很自然的事情，我就去读了，书就在那我就能读会啊。你们都可以读，但是我们大家自我设限，你认为除了你作业之外的东西你都进不去了？他说我就读一会儿，接待会有个视频主持人问几乎类似的，我说你有什么？你有什么秘诀吗？他说我不知道，我没有，他就习为常了。他从 12 岁开始每天读不同学科的两本书。从 12 岁就开始就跨学科学习，比如说火箭，他对火箭不了解，但他 02 年决定要去移民火星，你说我要移民火星，至少我得有一个火箭就开始做火箭，他开始研读，你看叫火箭推进基本原理这本教材，他把那个大学关于火箭的教材全读完了。他做 SPAI 都没说，你就投资人，对吧？你是董事长，你就找到高手去做，你去信任他、鼓励他就完了。
+
+speaks x 的很多技术的核心决策是他做的。我们来看看它跨越多少领域，在互联网界创办了最大的网络支付Paypal，在能源界创办了房屋共享能源。 solicit 在汽车界创办自动驾驶电动汽车。 Tesla 在航空界创办可重复使用的火箭 space x 在火车界创办了真空弹囊式的这个超级高铁Hyperloop，每个小时 1, 200 公里。科技界创办了开放 AI 的 open table，太空界时刻准备移民火箭跨了薛科。所有跨学科里边那个共通的思维方式就是物理学的思维方式，我们来看他最后整理自己的思维方式是什么？踏步的时候。
+
+Well, how have you done this? That these projects are so these Paypal, solicity, Tesla space, they're so spectacular different. There's such ambitious projects at scale. How on earth has one person been able to innovate in this way? What is it about you?
+
+I don't know. Actually. The, the, I don't have a good answer for you. I work a lot. I mean, that's. And a lies.
+
+Well, I have a theory, alright? My theory is that you have an ability to think at a system level of design that pull together design, technology and business. So Ted was TBD, design technology, business into one package, synthesize it in a way that very few people can. And this is a critical thing, feel so  confident in that click together package that you take crazy risks, you bet your fortune on it and you seem to have done that multiple times. I mean, almost no one can do that. Is that, can we have some of that secret source? Can we put it into our education system? Can someone learn from you? It is truly amazing what you've done.
+
+Thanks. Thank you. Well, I think there, I do think there's a good framework for thinking it is physics, you know, the sort of first principles reasoning. And generally I think there are what I mean by that is boil things down to their fundamental truths and reason up from there as opposed to reasoning by analogy. Through most of our life, we get through life by reasoning by analogy, which essentially means kind of coughing what other people do with slight variations. And you have to do that. Otherwise it's mentally, you wouldn't be able to get through the day. But when you want to do something new, you have to apply the physics approach. If physics is really sort of figured out how to discover new things that are counterintuitive, like quantum mechanics, it's really counterintuitive. So I think that's an important thing to do. And then also to really pay attention to negative feedback and solicit it, particularly from friends. This may sound like sort of simple advice, but it hardly anyone does that. And it's incredibly helpful.
+
+Boys and girls watching, study physics. Love Elon Musk. I wish we had all day, but thank you so much for. Okay.
+
+则科思危，靠小聪明没用了，靠小聪明靠 copy paste，靠类比没什么意思了。泽科思维这里面大家从态的主持人里边总结它一个模型，各位有没有注意到叫 TBD 模型， technology business and design。 TBD 模型说你能不能有一个教育系统，按照 TBD 模型来教育，世界上有没有一个教育系统按照 TBD 模型来教育呢？这就是跟芒哥说的多元思维模型，重要学科、重要理论是完全一样的。我整理一下今天我跟各位分享了什么，各位重点看这些范式是不一样的。
+
+马斯克的物理学思维模型、基石模型是非连续性模型和突破性技术模型。它的第一性原理是物理学思维，我相信我用这个模型思维方式是不是已经简单的告诉你了？不要学他如何坐火箭，但是他坐火箭过程当中使用的思维模型才是你要学习的，把思维模型作为你学习的抓手。
+
+不是别的。我们看巴菲特，它第一性原理是价值投资理念，几个基石模型、安全边际模型、护城河模型、非连续性模型、能力圈模型、最大化模型，对吧？是不是一样的？我们再看孙正义时光机模型的基石假设是非连续性模型和资本模型，你会发现他们每人都不一样。你要根据你自己的能力圈找到你自己的那个第一性原理，这就是你的，我们来再看这张图，我们说这是巴菲特的那个赛道，这是孙正义的赛道 yellow Musk。
+
+赛道在哪里，对吧？我再说一下，学习的时候，作为一个讲者，他可以把那个菜刀卖给你，但是你拿这个菜刀是炒东北菜还是川菜，取决于你自己。学习，要学习拿到那个合适的菜刀怎么用，结合你自己的能力圈，大多数人学习就看到别人招式拿来学了，而我们混沌大学的学习一定要繁杂的现象背后找到那个基础模型。
+
+成人学习的首要方式是学习思维模型，而不是知识。如果这个思维模型落后了，你在这里面学习再多的知识是低水平的，重复而已，没什么用处。学习模型有两个程度，第一是司机的知识，你熟练的知道这个模型这个词儿，你倒背如流，但是没有什么卵用。你要像爱因斯坦一样，你真的懂这个模型，你真的会用在某一个狭窄的领域里边，你有你自己的那个模型。所以如果各位愿意，可以练一下芒格这种多元思维模型的方式，用芒格的方法梳理你的多元基石模型。如学有余力推导你的创业或者创新或者工作的第一性原理，那通常第二你就不要想了，很多人想不出来，你先能想出几个你相信的模型就很不错了。
+
+这个章节给大家推荐几本书，第一是穷查理宝典。第二建议大家去网上下载一个这个视频，叫成为巴菲特。第三，建议各位去 TED 里边下载一下马斯克的 TED 对话。 13 年有一个对话，今年这个都很棒，都可以看一下，这是给各位推荐的这个章节的基本书。所以再次重复一下，成年人学习的目的应该是追求更好的思维模型，而不是更多的知识，在一个低水平的思维模型里边学习知识学的再多也是低水平的重复而已。我到这个句话各位全天听了我的课之后，是否有新的感受？
+
+未来你在混沌大学学习什么？ 50 堂课就是 50 个思维模型， 50 次刻意训练，这是混沌大学能够在为各位的学习生活当中，用我们独特的一种方法，给各位提供一个独特的视角。今天我讲的内容到此结束，明天。
+

@@ -1,0 +1,11 @@
+{
+    "user_id": "{user_id}",
+    "created_at": "{YYYY-MM-DD}",
+    "learning_style": {
+        "prefer_abstract": true,
+        "response_depth": "deep"
+    },
+    "strengths": [],
+    "weaknesses": [],
+    "growth_notes": []
+}

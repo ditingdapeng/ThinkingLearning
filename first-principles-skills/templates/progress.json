@@ -1,0 +1,122 @@
+{
+    "user_id": "{user_id}",
+    "current_lesson": 0,
+    "lessons": [
+        {
+            "id": 1,
+            "title": "刻意练习三步骤：业余选手与高手的本质区别",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        },
+        {
+            "id": 2,
+            "title": "李叫兽与芒格的思维模型学习法",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        },
+        {
+            "id": 3,
+            "title": "李善友教授如何从读书中学习？",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        },
+        {
+            "id": 4,
+            "title": "第一性原理是使用演绎法的推理基石",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        },
+        {
+            "id": 5,
+            "title": "第一性原理背后的哲学基石",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        },
+        {
+            "id": 6,
+            "title": "如何发现第一性原理？",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        },
+        {
+            "id": 7,
+            "title": "整个工业革命和工商管理都建立在牛顿世界观之上",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        },
+        {
+            "id": 8,
+            "title": "创新建立在达尔文世界观之上",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        },
+        {
+            "id": 9,
+            "title": "第一性原理如何影响政治经济",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        },
+        {
+            "id": 10,
+            "title": "如何像巴菲特一样思考？",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        },
+        {
+            "id": 11,
+            "title": "孙正义如何用时光机模型赢得科技浪潮",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        },
+        {
+            "id": 12,
+            "title": "马斯克的物理学思维与方法论",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        },
+        {
+            "id": 13,
+            "title": "从递弱代偿原理中推导出非连续性模型",
+            "status": "not_started",
+            "score": 0,
+            "attempts": 0,
+            "notes": []
+        }
+    ],
+    "thinking_patterns": {
+        "induction_traps": 0,
+        "continuity_assumptions": 0,
+        "pattern_recognition_success": 0,
+        "framework_building_success": 0
+    },
+    "feynman_scores": {
+        "clarity": 0,
+        "depth": 0,
+        "transferability": 0
+    },
+    "last_updated": ""
+}
